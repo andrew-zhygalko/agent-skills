@@ -205,7 +205,7 @@ Installed skills show up in the TUI slash menu, e.g. `/spec-driven-development`.
 <details>
 <summary><b>Other Agents</b></summary>
 
-Skills are plain Markdown - they work with any agent that accepts system prompts or instruction files. See [docs/getting-started.md](docs/getting-started.md).
+Skills are plain Markdown - they work with any agent that accepts system prompts or instruction files. See [docs/getting-started.md](docs/getting-started.md). Hosts that install the pack but aren't listed above are in [docs/other-hosts.md](docs/other-hosts.md).
 
 </details>
 
